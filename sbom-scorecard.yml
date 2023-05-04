@@ -114,11 +114,11 @@ records:
   - delay: 1
     content: "$ "
   - delay: 646
-    content: go install github.com/ebay/sbom-scorecard/cmd/sbom-scorecard@latest
+    content: go install github.com/lee-preimesberger/sbom-scorecard/cmd/sbom-scorecard@latest
   - delay: 1158
     content: "\r\n"
   - delay: 1041
-    content: "go: downloading github.com/ebay/sbom-scorecard v0.0.0-20230117174011-effef3b7e792\r\n"
+    content: "go: downloading github.com/lee-preimesberger/sbom-scorecard v0.0.0-20230117174011-effef3b7e792\r\n"
   - delay: 845
     content: "go: finding module for package github.com/spdx/gordf/uri\r\ngo: finding module for package github.com/spdx/gordf/rdfloader/parser\r\ngo: finding module for package github.com/spdx/gordf/rdfloader\r\ngo: finding module for package github.com/spdx/gordf/rdfwriter\r\n"
   - delay: 289

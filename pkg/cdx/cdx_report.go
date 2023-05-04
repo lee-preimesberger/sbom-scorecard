@@ -10,7 +10,7 @@ import (
 	"strings"
 
 	cdx "github.com/CycloneDX/cyclonedx-go"
-	"github.com/ebay/sbom-scorecard/pkg/scorecard"
+	"github.com/lee-preimesberger/sbom-scorecard/pkg/scorecard"
 )
 
 type CycloneDXReport struct {

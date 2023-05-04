@@ -8,9 +8,9 @@ import (
 
 	"strings"
 
-	"github.com/ebay/sbom-scorecard/pkg/cdx"
-	"github.com/ebay/sbom-scorecard/pkg/scorecard"
-	"github.com/ebay/sbom-scorecard/pkg/spdx"
+	"github.com/lee-preimesberger/sbom-scorecard/pkg/cdx"
+	"github.com/lee-preimesberger/sbom-scorecard/pkg/scorecard"
+	"github.com/lee-preimesberger/sbom-scorecard/pkg/spdx"
 	"github.com/spf13/cobra"
 )
 

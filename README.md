@@ -14,7 +14,7 @@ SPDX, CycloneDX and Syft are all in scope for this repo.
 
 1. Download the pre-compiled, platform-appropriate binary from
    the project's [releases page](https://github.com/eBay/sbom-scorecard/releases) and save it as `sbom-scorecard`.
-2. Install it via go: `go install github.com/ebay/sbom-scorecard/cmd/sbom-scorecard@latest`
+2. Install it via go: `go install github.com/lee-preimesberger/sbom-scorecard/cmd/sbom-scorecard@latest`
 3. Run it from source: `git clone https://github.com/eBay/sbom-scorecard; alias sbom-scorecard="go run $PWD/cmd/sbom-scorecard/main.go"`
 
 From there, you can score an SBOM with:

@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ebay/sbom-scorecard/pkg/scorecard"
+	"github.com/lee-preimesberger/sbom-scorecard/pkg/scorecard"
 )
 
 func assertTextEqual(t *testing.T, actual string, expected string) {

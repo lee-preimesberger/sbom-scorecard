@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/ebay/sbom-scorecard/cmd/sbom-scorecard/cmd"
+	"github.com/lee-preimesberger/sbom-scorecard/cmd/sbom-scorecard/cmd"
 )
 
 func main() {
